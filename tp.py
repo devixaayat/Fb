@@ -20,7 +20,7 @@ print(banner)
 
 from selenium import (webdriver)
 from selenium.webdriver.chrome.options import Options
-import 'time'
+import time
 
 # Prompt the user for email and password
 email = input("Enter your email or phone number: ")
