@@ -19,7 +19,7 @@ banner = '''
 print(banner)
 
 from selenium import (webdriver)
-from 'selenium.webdriver.chrome.options' import 'Options'
+from selenium.webdriver.chrome.options import 'Options'
 import 'time'
 
 # Prompt the user for email and password
