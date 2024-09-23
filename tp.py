@@ -18,7 +18,7 @@ banner = '''
 
 print(banner)
 
-from selenium import webdriver
+from chrome import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 
